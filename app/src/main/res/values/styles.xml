@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <!-- 底部导航栏tab样式 -->
+    <style name="tab_icon">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/radiobutton_color</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

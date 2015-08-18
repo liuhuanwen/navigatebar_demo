@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">navigatebar_demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_fragment">first_fragment</string>
+    <string name="second_fragment">second_fragment</string>
+    <string name="three_fragment">three_fragment</string>
+    <string name="four_fragment">four_fragment</string>
+</resources>
